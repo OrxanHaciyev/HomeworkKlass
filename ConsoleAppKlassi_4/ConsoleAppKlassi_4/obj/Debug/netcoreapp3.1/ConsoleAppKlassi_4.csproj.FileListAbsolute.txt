@@ -1,0 +1,13 @@
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\bin\Debug\netcoreapp3.1\ConsoleAppKlassi_4.exe
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\bin\Debug\netcoreapp3.1\ConsoleAppKlassi_4.deps.json
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\bin\Debug\netcoreapp3.1\ConsoleAppKlassi_4.runtimeconfig.json
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\bin\Debug\netcoreapp3.1\ConsoleAppKlassi_4.runtimeconfig.dev.json
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\bin\Debug\netcoreapp3.1\ConsoleAppKlassi_4.dll
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\bin\Debug\netcoreapp3.1\ConsoleAppKlassi_4.pdb
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.csprojAssemblyReference.cache
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.AssemblyInfoInputs.cache
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.AssemblyInfo.cs
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.csproj.CoreCompileInputs.cache
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.dll
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.pdb
+C:\Users\DV6\source\repos\ConsoleAppKlassi_4\ConsoleAppKlassi_4\obj\Debug\netcoreapp3.1\ConsoleAppKlassi_4.genruntimeconfig.cache
